@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   }
+ 
+ body {
+    background-image: linear-gradient(120deg, #efd594, #49aae7);
+    min-height: 100vh;
+   }
+
+ .login {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 2rem 0rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+   }
+     
+ .container {
+    width: 350px;
+    padding: 1.5rem;
+    border: none;
+    margin: auto;
+    box-shadow: 0 0 8px black;
+    border-radius: 10px;
+   }
+
+ .name,
+ .email,
+ .password,
+ .confirm-password,
+ .buttons {
+    padding: 5px;
+    text-align: center;
+   }
+
+ label {
+   font-size: 1.5rem;
+   }
+
+ input {
+    font-size: 1.3rem;
+   }
+
+ label::after {
+    content: "\a";
+    white-space: pre;
+   }
+
+ input {
+    width: 250px;
+    margin: 5px 0px;
+    padding: 0.25rem;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    text-align: center;
+    transition: ease-in-out 0.5s width;
+   }
+
+ .buttons button {
+    padding: 0.3rem 0.75rem;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+   }
+
+ #error {
+    color: red;
+    text-align: center;
+    font-size: 1.25rem;
+    margin: 0.5rem 0.25rem;
+   }
+
+ #success {
+    color: green;
+    text-align: center;
+    font-size: 1.25rem;
+    margin: 0.5rem 0.25rem;
+   }
