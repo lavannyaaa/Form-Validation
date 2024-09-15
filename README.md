@@ -11,13 +11,13 @@
 - Real-time Feedback : Provides immediate feedback to the user upon inputting data.
 - Responsive Design : Works across different devices and screen sizes.
 
-## Technologies Used
+**Technologies Used**
 
 - HTML : To structure the form elements and input fields.
 - CSS3: For styling and improving the layout and visual appeal of the form.
 - JavaScript: To perform real-time validation of the form fields and display appropriate feedback.
 
-## Installation
+**Installation**
 
 You can clone this repository using the following command:
 
@@ -42,7 +42,7 @@ Check out the live version of Form Validation : https://lavannyaaa.github.io/For
 
 **AUTHOR**
 
-https://github.com/lavannyaaa
+[lavannyaaa](https://github.com/lavannyaaa)
 
 **ACKNOWLEDGEMENT**
 - Validation techniques learned from various web development resources.
