@@ -2,7 +2,7 @@
 
 [Form Validation](https://lavannyaaa.github.io/Form-Validation/) is a simple and interactive web-based form validation application built using HTML, CSS, and JavaScript. It validates essential form fields such as name, email, phone number, password, and confirm password, ensuring that user inputs meet required conditions before submission.
 
-**Features**
+**FEATURES**
 - Name Validation : Ensures the name field is not empty and meets character requirements.
 - Email Validation : Validates the format of the email address entered.
 - Phone Number Validation : Checks if the phone number contains only digits and is of valid length.
@@ -11,13 +11,13 @@
 - Real-time Feedback : Provides immediate feedback to the user upon inputting data.
 - Responsive Design : Works across different devices and screen sizes.
 
-**Technologies Used**
+**TECHNOLOGIES USED**
 
 - HTML : To structure the form elements and input fields.
 - CSS3: For styling and improving the layout and visual appeal of the form.
 - JavaScript: To perform real-time validation of the form fields and display appropriate feedback.
 
-**Installation**
+**INSTALLATION**
 
 You can clone this repository using the following command:
 
