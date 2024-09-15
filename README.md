@@ -38,7 +38,7 @@ git clone https://github.com/lavannyaaa/Form-Validation.git
 
 **LIVE DEMO**
 
-Check out the live version of Form Validation : https://lavannyaaa.github.io/Form-Validation/
+Check out the live version of Form Validation : [Form Validation Website]( https://lavannyaaa.github.io/Form-Validation/)
 
 **AUTHOR**
 
