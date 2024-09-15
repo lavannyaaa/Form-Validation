@@ -14,8 +14,8 @@
 **TECHNOLOGIES USED**
 
 - HTML : To structure the form elements and input fields.
-- CSS3: For styling and improving the layout and visual appeal of the form.
-- JavaScript: To perform real-time validation of the form fields and display appropriate feedback.
+- CSS : For styling and improving the layout and visual appeal of the form.
+- JavaScript : To perform real-time validation of the form fields and display appropriate feedback.
 
 **INSTALLATION**
 
